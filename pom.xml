@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>groupId</groupId>
-    <artifactId>fqz-rpc</artifactId>
+    <artifactId>felix-rpc</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
